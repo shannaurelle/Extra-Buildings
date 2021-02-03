@@ -1,0 +1,111 @@
+
+game.png
+size: 2048,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Arboretium
+  rotate: false
+  xy: 122, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bakery
+  rotate: false
+  xy: 224, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Brick Works
+  rotate: false
+  xy: 2, 2
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Foundry
+  rotate: false
+  xy: 326, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fruiticetium
+  rotate: false
+  xy: 428, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fungarium
+  rotate: false
+  xy: 530, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gas Storage
+  rotate: false
+  xy: 632, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gas Works
+  rotate: false
+  xy: 734, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Greenhouse
+  rotate: false
+  xy: 836, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Herbarium
+  rotate: false
+  xy: 938, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Incinerator
+  rotate: false
+  xy: 1040, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Manufacturing Plant
+  rotate: false
+  xy: 1142, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Planetarium
+  rotate: false
+  xy: 1244, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Powder Mill
+  rotate: false
+  xy: 1346, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sugar Refinery
+  rotate: false
+  xy: 1448, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
