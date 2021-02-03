@@ -14,6 +14,7 @@
         "food": 2,
         "happiness": 2,	
 	"gold": 2,
+        "requiredBuilding": "Granary",
 	"requiredTech": "Masonry"
     },
     {
@@ -122,9 +123,10 @@
         "cost": 250,
         "production": 2,
 	"happiness": 4,
-	"maintenance": 3,
+	"gold": 4,
         "requiredNearbyImprovedResources": ["Sugar"]
         "percentStatBonus": {"food": 5},
+	"requiredBuilding": "Workshop",
 	"requiredTech": "Industrialization"
     }
 ]
