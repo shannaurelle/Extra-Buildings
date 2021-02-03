@@ -1,0 +1,130 @@
+[
+{
+        "name": "Arboretium",
+        "cost": 50,
+        "culture": 2,
+        "science": 3,
+        "specialistSlots": {"Scientist": 1},	
+        "uniques": ["[+1 Happiness] from [Forest]"]
+	"requiredTech": "Biology"
+    },
+    {
+        "name": "Bakery",
+        "cost": 50,
+        "food": 2,
+        "happiness": 2,	
+	"gold": 2,
+	"requiredTech": "Masonry"
+    },
+    {
+        "name": "Brick Works",
+        "cost": 50,
+        "production": 2,
+        "gold": 2,	
+	"requiredTech": "Masonry"
+    },
+    {
+        "name": "Foundry",
+        "cost": 100,
+        "production": 2,	
+        "percentStatBonus": {"production": 5},
+	"requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Fruiticetium",
+        "cost": 50,
+        "culture": 2,
+        "science": 3,
+	"happiness": 2,
+        "specialistSlots": {"Scientist": 1},	
+	"requiredTech": "Biology"
+    },
+    {
+        "name": "Fungarium",
+        "cost": 50,
+        "culture": 2,
+        "science": 3,
+        "maintenance": 1,
+	"requiredTech": "Biology"
+    },
+    {
+        "name": "Gas Storage",
+        "cost": 250,
+        "production": 3,
+        "maintenance": 2,	
+        "percentStatBonus": {"production": 5},
+	"requiredBuilding": "Workshop",
+	"requiredTech": "Industrialization"
+    },
+    {
+        "name": "Gas Works",
+        "cost": 250,
+        "production": 4,
+        "maintenance": 2,	
+        "percentStatBonus": {"production": 5},
+	"specialistSlots": {"Engineer": 1},
+        "requiredBuilding": "Workshop",
+	"requiredTech": "Industrialization"
+    },
+    {
+        "name": "Greenhouse",
+        "cost": 100,
+        "food": 2,
+        "happiness": 2,
+        "maintenance": 1,	
+	"requiredTech": "Construction"
+    },
+    {
+        "name": "Herbarium",
+        "cost": 50,
+        "science": 2,
+        "culture": 2,
+        "maintenance": 1,	
+	"requiredTech": "Printing Press"
+    },
+    {
+        "name": "Incinerator",
+        "cost": 200,
+        "production": 4,
+        "happiness": -2,
+        "maintenance": 2,
+        "percentStatBonus": {"production": 10},
+        "requiredBuilding": "Workshop",
+	"requiredTech": "Combustion"
+    },
+    {
+        "name": "Manufacturing Plant",
+        "cost": 300,
+        "production": 4,
+        "percentStatBonus": {"production": 20},
+	"specialistSlots": {"Engineer": 2},
+	"requiredTech": "Robotics"
+    },
+    {
+        "name": "Planetarium",
+        "cost": 300,
+        "science": 2,
+	"happiness": 2,
+	"maintenance": 1,
+	"requiredTech": "Astronomy"
+    },
+    {
+        "name": "Powder Mill",
+        "cost": 150,
+        "production": 3,
+	"maintenance": 1,
+        "percentStatBonus": {"production": 5},
+	"uniques": ["+[15]% production when building [land units] in this city"],
+	"requiredTech": "Gunpowder"
+    },
+    {
+        "name": "Sugar Refinery",
+        "cost": 250,
+        "production": 2,
+	"happiness": 4,
+	"maintenance": 3,
+        "requiredNearbyImprovedResources": ["Sugar"]
+        "percentStatBonus": {"food": 5},
+	"requiredTech": "Industrialization"
+    }
+]
