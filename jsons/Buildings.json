@@ -128,5 +128,13 @@
         "percentStatBonus": {"food": 5},
 	    "requiredBuilding": "Workshop",
 	    "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Cinema",
+        "cost": 300,
+	    "happiness": 2,
+        "culture": 3,
+	    "gold": 1,
+	    "requiredTech": "Electricity"
     }
 ]
