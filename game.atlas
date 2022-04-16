@@ -1,110 +1,117 @@
 
 game.png
-size: 2048, 128
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arboretium
   rotate: false
-  xy: 130, 4
+  xy: 338, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bakery
   rotate: false
-  xy: 238, 4
+  xy: 446, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Brick Works
   rotate: false
-  xy: 4, 4
+  xy: 212, 104
   size: 118, 100
   orig: 118, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Cinema
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Foundry
   rotate: false
-  xy: 346, 4
+  xy: 554, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fruiticetium
   rotate: false
-  xy: 454, 4
+  xy: 662, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fungarium
   rotate: false
-  xy: 562, 4
+  xy: 770, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Storage
   rotate: false
-  xy: 670, 4
+  xy: 878, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Works
   rotate: false
-  xy: 778, 4
+  xy: 986, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Greenhouse
   rotate: false
-  xy: 886, 4
+  xy: 1094, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Herbarium
   rotate: false
-  xy: 994, 4
+  xy: 1202, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Incinerator
   rotate: false
-  xy: 1102, 4
+  xy: 1310, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manufacturing Plant
   rotate: false
-  xy: 1210, 4
+  xy: 1418, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Planetarium
   rotate: false
-  xy: 1318, 4
+  xy: 1526, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Powder Mill
   rotate: false
-  xy: 1426, 4
+  xy: 1634, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sugar Refinery
   rotate: false
-  xy: 1534, 4
+  xy: 1742, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
