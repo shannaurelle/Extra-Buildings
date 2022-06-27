@@ -5,7 +5,7 @@
         "culture": 2,
         "science": 3,
         "specialistSlots": {"Scientist": 1},	
-        "uniques": ["[+1 Happiness] from [Forest]"],
+        "uniques": ["[+1 Happiness] from [Forest] tiles [in this city]"],
 	    "requiredTech": "Biology"
     },
     {
@@ -72,7 +72,7 @@
         "cost": 100,
         "food": 2,
         "maintenance": 1,
-	"uniques": ["[+1 Gold] from [Farm]"],
+	    "uniques": ["[+1 Gold] from [Farm] tiles [in this city]"],
 	    "requiredTech": "Construction"
     },
     {
