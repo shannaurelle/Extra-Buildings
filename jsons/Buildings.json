@@ -71,8 +71,8 @@
         "name": "Greenhouse",
         "cost": 100,
         "food": 2,
-        "happiness": 2,
-        "maintenance": 1,	
+        "maintenance": 1,
+	"uniques": ["[+1 Gold] from [Farm]"],
 	    "requiredTech": "Construction"
     },
     {
