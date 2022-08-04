@@ -21,10 +21,11 @@
     },
     {
         "name": "Brick Works",
-        "cost": 50,
+        "cost": 100,
         "production": 2,
-        "gold": 2,	
-	    "requiredTech": "Masonry"
+	"gold": 2,
+	"specialistSlots": {"Engineer": 1},
+	"requiredTech": "Masonry"
     },
     {
         "name": "Foundry",
