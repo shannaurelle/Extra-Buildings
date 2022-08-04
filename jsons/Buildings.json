@@ -4,6 +4,7 @@
         "cost": 50,
         "culture": 2,
         "science": 3,
+	"maintenance": 3,
         "specialistSlots": {"Scientist": 1},	
         "uniques": ["[+1 Happiness] from [Forest] tiles [in this city]"],
 	    "requiredTech": "Biology"
