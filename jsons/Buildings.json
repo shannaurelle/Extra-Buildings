@@ -14,7 +14,6 @@
         "cost": 50,
         "food": 2,
         "happiness": 2,	
-	"gold": 2,
 	"maintenance": 4,
 	"specialistSlots": {"Merchant": 1, "Scientist": 1},
         "requiredBuilding": "Granary",
