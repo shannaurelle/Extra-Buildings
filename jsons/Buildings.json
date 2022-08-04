@@ -6,7 +6,8 @@
 	"maintenance": 3,
         "specialistSlots": {"Scientist": 1},	
         "uniques": ["[+1 Happiness] from [Forest] tiles [in this city]"],
-	    "requiredTech": "Biology"
+	"requiredBuilding": "Park",
+	"requiredTech": "Biology"
     },
     {
         "name": "Bakery",
@@ -44,6 +45,7 @@
 	"maintenance": 3,
         "specialistSlots": {"Scientist": 1},
 	"uniques": ["[+1 Happiness] from [Citrus] tiles [in this city]"],
+	"requiredBuilding": "Park",
 	"requiredTech": "Biology"
     },
     {
