@@ -23,8 +23,9 @@
         "name": "Brick Works",
         "cost": 100,
         "production": 2,
-	"gold": 2,
+	"maintenance": 4,
 	"specialistSlots": {"Engineer": 1},
+	"uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
 	"requiredTech": "Masonry"
     },
     {
