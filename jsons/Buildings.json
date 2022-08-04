@@ -11,7 +11,7 @@
     },
     {
         "name": "Bakery",
-        "cost": 50,
+        "cost": 100,
         "food": 2,
         "happiness": 2,	
 	"maintenance": 4,
