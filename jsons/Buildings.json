@@ -26,7 +26,7 @@
         "production": 2,
 	"maintenance": 4,
 	"specialistSlots": {"Engineer": 1},
-	"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","Must be next to [Lakes]","Must be next to [Coast]","Must be next to [Hill]","Must be next to [Flood plains]"],
+	"uniques": ["[+10]% Production when constructing [All] buildings [in this city]", "Must have an owned [Lakes] within [3] tiles", "Must have an owned [Coast] within [3] tiles", "Must have an owned [Flood plains] within [3] tiles"],
 	"requiredTech": "Masonry"
     },
     {
