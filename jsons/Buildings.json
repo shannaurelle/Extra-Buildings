@@ -3,9 +3,10 @@
         "name": "Arboretium",
         "cost": 150,
         "science": 3,
+	"happiness": 2,
 	"maintenance": 3,
         "specialistSlots": {"Scientist": 1},	
-        "uniques": ["[+1 Happiness] from [Forest] tiles [in this city]"],
+        "uniques": ["[+1 Science] from [Forest] tiles [in this city]"],
 	"requiredBuilding": "Park",
 	"requiredTech": "Biology"
     },
