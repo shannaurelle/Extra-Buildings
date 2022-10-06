@@ -15,7 +15,8 @@
         "cost": 100,
         "food": 2,
         "happiness": 2,	
-	"maintenance": 4,
+	"gold": 2,
+	"maintenance": 3,
 	"specialistSlots": {"Merchant": 1},
         "requiredBuilding": "Granary",
 	    "requiredTech": "Masonry"
@@ -24,7 +25,8 @@
         "name": "Brick Works",
         "cost": 100,
         "production": 2,
-	"maintenance": 4,
+	"gold": 1,
+	"maintenance": 3,
 	"specialistSlots": {"Engineer": 1},
 	"uniques": ["[+10]% Production when constructing [All] buildings [in this city]", "Must have an owned [Lakes] within [3] tiles", "Must have an owned [Coast] within [3] tiles", "Must have an owned [Flood plains] within [3] tiles"],
 	"requiredTech": "Masonry"
@@ -33,7 +35,7 @@
         "name": "Foundry",
         "cost": 200,
         "production": 2,
-	"maintenance": 4,
+	"maintenance": 3,
         "percentStatBonus": {"production": 5},
 	"specialistSlots": {"Engineer": 1},
 	"requiredTech": "Metal Casting"
@@ -70,7 +72,8 @@
         "name": "Gas Works",
         "cost": 250,
         "production": 4,
-        "maintenance": 2,	
+	"gold": 2,
+        "maintenance": 3,	
         "percentStatBonus": {"production": 5},
 	"specialistSlots": {"Engineer": 1},
         "requiredBuilding": "Workshop",
@@ -106,6 +109,8 @@
         "name": "Manufacturing Plant",
         "cost": 400,
         "production": 4,
+	"gold": 4,
+	"maintenance": 1,
         "percentStatBonus": {"production": 20},
 	"specialistSlots": {"Engineer": 2},
 	"requiredTech": "Robotics"
@@ -129,7 +134,8 @@
         "name": "Powder Mill",
         "cost": 150,
         "production": 3,
-	"maintenance": 4,
+	"gold": 2,
+	"maintenance": 2,
         "percentStatBonus": {"production": 5},
 	"uniques": ["+[15]% production when building [land units] in this city"],
 	"requiredTech": "Gunpowder"
@@ -140,6 +146,7 @@
         "production": 2,
 	"happiness": 4,
 	"gold": 4,
+	"maintenance": 2,
         "requiredNearbyImprovedResources": ["Sugar"],
         "percentStatBonus": {"food": 5},
 	"requiredBuilding": "Workshop",
@@ -150,6 +157,7 @@
         "cost": 300,
 	"happiness": 2,
         "culture": 3,
+	"gold": 1,
 	"maintenance": 3,
 	"requiredTech": "Electricity"
     }
