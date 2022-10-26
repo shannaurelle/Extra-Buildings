@@ -172,8 +172,16 @@
         "cost": 200,
 	"happiness": 2,
 	"maintenance": 1,
-	"uniques": ["Must be next to [Coast]","Must be next to [Lake]"],
+	"uniques": ["Must be next to [Coast]","Must be next to [Mountain]"],
 	"requiredTech": "Engineering"
+    },
+    {
+        "name": "Golf Resort",
+        "cost": 300,
+	"happiness": 2,
+	"maintenance": 2,
+	"uniques": ["Must be next to [Plains]","Must be next to [Grassland]"],
+	"requiredTech": "Architecture"
     },
     {
         "name": "Mountain Resort",
@@ -182,5 +190,5 @@
 	"maintenance": 2,
 	"uniques": ["Must be next to [Mountain]"],
 	"requiredTech": "Railroad"
-    }
+    }   
 ]
