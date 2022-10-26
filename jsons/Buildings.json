@@ -189,6 +189,6 @@
 	"happiness": 4,
 	"maintenance": 2,
 	"uniques": ["Must be next to [Mountain]"],
-	"requiredTech": "Railroad"
+	"requiredTech": "Railroads"
     }   
 ]
