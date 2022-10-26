@@ -25,10 +25,8 @@
         "name": "Brick Works",
         "cost": 100,
         "production": 2,
-	"gold": 1,
-	"maintenance": 3,
-	"specialistSlots": {"Engineer": 1},
-	"uniques": ["[+10]% Production when constructing [All] buildings [in this city]", "Must have an owned [Lakes] within [3] tiles", "Must have an owned [Coast] within [3] tiles", "Must have an owned [Flood plains] within [3] tiles"],
+	"maintenance": 1,
+	"uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
 	"requiredTech": "Masonry"
     },
     {
@@ -160,5 +158,13 @@
 	"gold": 1,
 	"maintenance": 3,
 	"requiredTech": "Electricity"
+    },
+    {
+        "name": "Seaside Resort",
+        "cost": 100,
+	"happiness": 2,
+	"maintenance": 1,
+	"uniques": ["Must be next to [Coast]"],
+	"requiredTech": "Sailing"
     }
 ]
