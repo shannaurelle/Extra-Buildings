@@ -174,5 +174,13 @@
 	"maintenance": 1,
 	"uniques": ["Must be next to [Coast]","Must be next to [Lake]"],
 	"requiredTech": "Engineering"
+    },
+    {
+        "name": "Mountain Resort",
+        "cost": 400,
+	"happiness": 4,
+	"maintenance": 2,
+	"uniques": ["Must be next to [Mountain]"],
+	"requiredTech": "Railroad"
     }
 ]
