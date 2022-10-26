@@ -166,5 +166,13 @@
 	"maintenance": 1,
 	"uniques": ["Must be next to [Coast]"],
 	"requiredTech": "Sailing"
+    },
+    {
+        "name": "Spa Resort",
+        "cost": 200,
+	"happiness": 2,
+	"maintenance": 1,
+	"uniques": ["Must be next to [Coast]","Must be next to [Lake]"],
+	"requiredTech": "Engineering"
     }
 ]
