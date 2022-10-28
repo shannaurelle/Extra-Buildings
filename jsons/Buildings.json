@@ -190,5 +190,14 @@
 	"maintenance": 2,
 	"uniques": ["Must be next to [Mountain]"],
 	"requiredTech": "Railroads"
-    }   
+    },   
+    {
+        "name": "Supermarket",
+        "cost": 400,
+	"food": 2,
+	"production": 2,
+	"maintenance": 4,
+	"uniques": ["[+10]% [Gold] [in this city]"],
+	"requiredTech": "Replaceable Parts"
+    }
 ]
