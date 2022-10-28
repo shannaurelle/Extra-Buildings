@@ -200,13 +200,6 @@
 	"requiredTech": "Animal Husbandry"
     }, 
     {
-        "name": "Icehouse",
-        "cost": 200,
-	"maintenance": 1,
-	"uniques": ["[+5]% [Food] [in this city]"],
-	"requiredTech": "Iron Working"
-    },
-    {
         "name": "Smokery",
         "cost": 100,
 	"maintenance": 2,
@@ -215,12 +208,28 @@
 	"requiredTech": "Animal Husbandry"
     },
     {
+        "name": "Icehouse",
+        "cost": 200,
+	"maintenance": 1,
+	"percentStatBonus": {"food": 5},
+	"requiredTech": "Iron Working"
+    },
+    {
+        "name": "Cannery",
+        "cost": 300,
+	"production": 2,
+	"maintenance": 3,
+	"percentStatBonus": {"food": 10},
+	"specialistSlots": {"Engineer": 1},
+	"requiredTech": "Metallurgy"
+    },
+    {
         "name": "Supermarket",
         "cost": 400,
 	"food": 2,
 	"production": 2,
 	"maintenance": 4,
-	"uniques": ["[+10]% [Gold] [in this city]"],
+	"percentStatBonus": {"gold": 10},
 	"requiredTech": "Replaceable Parts"
     }
 ]
