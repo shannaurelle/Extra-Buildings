@@ -196,8 +196,24 @@
         "cost": 100,
 	"food": 2,
 	"maintenance": 1,
+	"requiredNearbyImprovedResources": ["Sheep","Deer","Cattle","Horses"],
 	"requiredTech": "Animal Husbandry"
     }, 
+    {
+        "name": "Icehouse",
+        "cost": 200,
+	"maintenance": 1,
+	"uniques": ["[+5]% [Food] [in this city]"],
+	"requiredTech": "Iron Working"
+    },
+    {
+        "name": "Smokery",
+        "cost": 100,
+	"maintenance": 2,
+	"uniques": ["[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
+	"requiredBuilding": "Slaughterhouse",
+	"requiredTech": "Animal Husbandry"
+    },
     {
         "name": "Supermarket",
         "cost": 400,
