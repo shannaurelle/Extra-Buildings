@@ -190,7 +190,14 @@
 	"maintenance": 2,
 	"uniques": ["Must be next to [Mountain]"],
 	"requiredTech": "Railroads"
-    },   
+    },
+    {
+        "name": "Slaughterhouse",
+        "cost": 100,
+	"food": 2,
+	"maintenance": 1,
+	"requiredTech": "Animal Husbandry"
+    }, 
     {
         "name": "Supermarket",
         "cost": 400,
