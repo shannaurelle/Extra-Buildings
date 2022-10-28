@@ -6,148 +6,183 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arboretium
   rotate: false
-  xy: 628, 204
+  xy: 1460, 321
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bakery
   rotate: false
-  xy: 754, 312
+  xy: 1568, 321
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Brick Works
   rotate: false
-  xy: 628, 312
+  xy: 836, 112
   size: 118, 100
   orig: 118, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Cannery
+  rotate: false
+  xy: 4, 221
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Cinema
   rotate: false
-  xy: 4, 212
+  xy: 4, 13
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Foundry
   rotate: false
-  xy: 628, 96
+  xy: 1676, 321
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fruiticetium
   rotate: false
-  xy: 736, 204
+  xy: 1784, 321
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fungarium
   rotate: false
-  xy: 862, 312
+  xy: 1892, 321
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Storage
   rotate: false
-  xy: 736, 96
+  xy: 1460, 213
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Works
   rotate: false
-  xy: 844, 204
+  xy: 1568, 213
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Golf Resort
   rotate: false
-  xy: 4, 4
+  xy: 212, 221
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Greenhouse
   rotate: false
-  xy: 970, 312
+  xy: 1676, 213
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Herbarium
   rotate: false
-  xy: 844, 96
+  xy: 1784, 213
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Icehouse
+  rotate: false
+  xy: 212, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Incinerator
   rotate: false
-  xy: 952, 204
+  xy: 1892, 213
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manufacturing Plant
   rotate: false
-  xy: 1078, 312
+  xy: 836, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mountain Resort
   rotate: false
-  xy: 212, 212
+  xy: 420, 221
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Park
   rotate: false
-  xy: 212, 4
+  xy: 420, 13
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Planetarium
   rotate: false
-  xy: 952, 96
+  xy: 962, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Powder Mill
   rotate: false
-  xy: 1060, 204
+  xy: 944, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seaside Resort
   rotate: false
-  xy: 420, 212
+  xy: 628, 221
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Slaughterhouse
+  rotate: false
+  xy: 628, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Smokery
+  rotate: false
+  xy: 836, 220
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
 BuildingIcons/Spa Resort
   rotate: false
-  xy: 420, 4
+  xy: 1044, 221
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sugar Refinery
   rotate: false
-  xy: 1186, 312
+  xy: 1070, 113
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Supermarket
+  rotate: false
+  xy: 1252, 221
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
