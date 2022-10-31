@@ -19,7 +19,7 @@
 	"maintenance": 3,
 	"specialistSlots": {"Merchant": 1},
         "requiredBuilding": "Granary",
-	    "requiredTech": "Masonry"
+	"requiredTech": "Masonry"
     },
     {
         "name": "Brick Works",
@@ -81,7 +81,8 @@
         "name": "Greenhouse",
         "cost": 100,
         "food": 2,
-        "maintenance": 1,
+	"uniques": ["[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Desert] tiles [in this city]","[+1 Food] from [Tundra] tiles [in this city]","[+1 Food] from [Snow] tiles [in this city]"],
+        "maintenance": 2,
 	"requiredTech": "Construction"
     },
     {
