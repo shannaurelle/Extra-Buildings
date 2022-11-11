@@ -1,2 +1,2 @@
 # Extra-Buildings
-A deity-friendly mod for Unciv. 100% FUN. Adds new buildings into the game. Incompatible with Civ6, Civ4, DeCiv, and Unciv WWII. I accept pull requests for those willing to contribute.
+Adds cool buildings to Unciv. 100% FUN. Incompatible with Civ6, Civ4, DeCiv, and Unciv WWII. I accept pull requests for those willing to contribute.
