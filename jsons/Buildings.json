@@ -232,5 +232,23 @@
 	"maintenance": 4,
 	"percentStatBonus": {"gold": 10},
 	"requiredTech": "Replaceable Parts"
+    },
+    {
+        "name": "Warehouses",
+        "cost": 200,
+	"food": 2,
+	"production": 2,
+	"maintenance": 2,
+	"requiredBuilding": "Granary",
+	"requiredTech": "Sailing"
+    },
+    {
+        "name": "Shipyard",
+        "cost": 200,
+	"production": 2,
+	"maintenance": 4,
+	"requiredTech": "Sailing",
+	"requiredBuilding": "Warehouses",
+	"uniques": ["[+10]% Production when constructing [Water] units [in this city]","Must be on [River]","Must be next to [Coast]"]
     }
 ]
