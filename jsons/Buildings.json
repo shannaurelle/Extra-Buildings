@@ -251,4 +251,12 @@
 	"requiredBuilding": "Warehouses",
 	"uniques": ["[+10]% Production when constructing [Water] units [in this city]","Must be on [River]","Must be next to [Coast]"]
     }
+    {
+	"name": "Apothecary",
+	"cost": 300,
+	"food": 4,
+	"maintenance": 2,
+	"requiredTech": "Education",
+	"uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]","Must be next to [Jungle]","All newly-trained [Melee] units [in all cities] receive the [Organic Remedies] promotion"]
+    }
 ]
