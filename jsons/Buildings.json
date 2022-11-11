@@ -257,6 +257,6 @@
 	"food": 4,
 	"maintenance": 2,
 	"requiredTech": "Education",
-	"uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]","Must be next to [Jungle]","All newly-trained [Melee] units [in all cities] receive the [Organic Remedies] promotion"]
+	"uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]","Must be next to [Jungle]","All newly-trained [Melee] units [in this city] receive the [Organic Remedies] promotion"]
     }
 ]
