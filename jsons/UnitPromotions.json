@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Organic Remedies",
+		"uniques": ["[+10] HP when healing <in [Jungle] tiles>","[+10] HP when healing <in [Forest] tiles>","[+5] HP when healing <in [Grassland] tiles>","[+5] HP when healing <in [Plains] tiles>","[+5] HP when healing <in [Tundra] tiles>"],
+		"unitTypes": ["Melee","Gunpowder","Mounted","Scout","Ranged"]
+	}
+]
