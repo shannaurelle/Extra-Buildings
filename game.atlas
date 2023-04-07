@@ -4,185 +4,213 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Apothecary
+  rotate: false
+  xy: 4, 270
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Arboretium
   rotate: false
-  xy: 1460, 321
+  xy: 1876, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bakery
   rotate: false
-  xy: 1568, 321
+  xy: 1876, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Brick Works
   rotate: false
-  xy: 836, 112
+  xy: 1044, 161
   size: 118, 100
   orig: 118, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cannery
   rotate: false
-  xy: 4, 221
+  xy: 4, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cinema
   rotate: false
-  xy: 4, 13
+  xy: 212, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Foundry
   rotate: false
-  xy: 1676, 321
+  xy: 1044, 53
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fruiticetium
   rotate: false
-  xy: 1784, 321
+  xy: 1170, 161
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fungarium
   rotate: false
-  xy: 1892, 321
+  xy: 1152, 53
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Storage
   rotate: false
-  xy: 1460, 213
+  xy: 1278, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Works
   rotate: false
-  xy: 1568, 213
+  xy: 1386, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Golf Resort
   rotate: false
-  xy: 212, 221
+  xy: 212, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Greenhouse
   rotate: false
-  xy: 1676, 213
+  xy: 1494, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Herbarium
   rotate: false
-  xy: 1784, 213
+  xy: 1602, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Icehouse
   rotate: false
-  xy: 212, 13
+  xy: 420, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Incinerator
   rotate: false
-  xy: 1892, 213
+  xy: 1710, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manufacturing Plant
   rotate: false
-  xy: 836, 4
+  xy: 1818, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mountain Resort
   rotate: false
-  xy: 420, 221
+  xy: 420, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Park
   rotate: false
-  xy: 420, 13
+  xy: 628, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Planetarium
   rotate: false
-  xy: 962, 112
+  xy: 1926, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Powder Mill
   rotate: false
-  xy: 944, 4
+  xy: 1260, 53
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seaside Resort
   rotate: false
-  xy: 628, 221
+  xy: 628, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shipyard
+  rotate: false
+  xy: 836, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Slaughterhouse
   rotate: false
-  xy: 628, 13
+  xy: 836, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Smokery
   rotate: false
-  xy: 836, 220
+  xy: 1044, 269
   size: 200, 201
   orig: 200, 201
   offset: 0, 0
   index: -1
 BuildingIcons/Spa Resort
   rotate: false
-  xy: 1044, 221
+  xy: 1252, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sugar Refinery
   rotate: false
-  xy: 1070, 113
+  xy: 1368, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Supermarket
   rotate: false
-  xy: 1252, 221
+  xy: 1460, 270
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Warehouse
+  rotate: false
+  xy: 1668, 270
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Organic Remedies
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
