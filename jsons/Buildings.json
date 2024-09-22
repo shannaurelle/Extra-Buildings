@@ -3,96 +3,96 @@
         "name": "Arboretium",
         "cost": 150,
         "science": 3,
-	"happiness": 2,
-	"maintenance": 3,
-        "specialistSlots": {"Scientist": 1},	
+        "happiness": 2,
+        "maintenance": 3,
+        "specialistSlots": {"Scientist": 1},
         "uniques": ["[+1 Science] from [Forest] tiles [in this city]"],
-	"requiredBuilding": "Park",
-	"requiredTech": "Biology"
+        "requiredBuilding": "Park",
+        "requiredTech": "Biology"
     },
     {
         "name": "Bakery",
         "cost": 100,
         "food": 2,
-        "happiness": 2,	
-	"gold": 2,
-	"maintenance": 3,
-	"specialistSlots": {"Merchant": 1},
+        "happiness": 2,
+        "gold": 2,
+        "maintenance": 3,
+        "specialistSlots": {"Merchant": 1},
         "requiredBuilding": "Granary",
-	"requiredTech": "Masonry"
+        "requiredTech": "Masonry"
     },
     {
         "name": "Brick Works",
         "cost": 100,
         "production": 2,
-	"maintenance": 1,
-	"uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
-	"requiredTech": "Masonry"
+        "maintenance": 1,
+        "uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
+        "requiredTech": "Masonry"
     },
     {
         "name": "Foundry",
         "cost": 200,
         "production": 2,
-	"maintenance": 3,
+        "maintenance": 3,
         "percentStatBonus": {"production": 5},
-	"specialistSlots": {"Engineer": 1},
-	"requiredTech": "Metal Casting"
+        "specialistSlots": {"Engineer": 1},
+        "requiredTech": "Metal Casting"
     },
     {
         "name": "Fruiticetium",
         "cost": 150,
         "science": 3,
-	"happiness": 2,
-	"maintenance": 3,
+        "happiness": 2,
+        "maintenance": 3,
         "specialistSlots": {"Scientist": 1},
-	"uniques": ["[+4 Happiness] from [Citrus] tiles [in this city]"],
-	"requiredBuilding": "Park",
-	"requiredTech": "Biology"
+        "uniques": ["[+4 Happiness] from [Citrus] tiles [in this city]"],
+        "requiredBuilding": "Park",
+        "requiredTech": "Biology"
     },
     {
         "name": "Fungarium",
         "cost": 150,
         "science": 3,
         "maintenance": 3,
-	"specialistSlots": {"Scientist": 1},
-	"requiredTech": "Biology"
+        "specialistSlots": {"Scientist": 1},
+        "requiredTech": "Biology"
     },
     {
         "name": "Gas Storage",
         "cost": 250,
         "production": 3,
-        "maintenance": 2,	
+        "maintenance": 2,
         "percentStatBonus": {"production": 5},
-	"requiredBuilding": "Workshop",
-	"requiredTech": "Industrialization"
+        "requiredBuilding": "Workshop",
+        "requiredTech": "Industrialization"
     },
     {
         "name": "Gas Works",
         "cost": 250,
         "production": 4,
-	"gold": 2,
-        "maintenance": 3,	
+        "gold": 2,
+        "maintenance": 3,
         "percentStatBonus": {"production": 5},
-	"specialistSlots": {"Engineer": 1},
+        "specialistSlots": {"Engineer": 1},
         "requiredBuilding": "Workshop",
-	"requiredTech": "Industrialization"
+        "requiredTech": "Industrialization"
     },
     {
         "name": "Greenhouse",
         "cost": 100,
         "food": 2,
-	"uniques": ["[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Desert] tiles [in this city]","[+1 Food] from [Tundra] tiles [in this city]","[+1 Food] from [Snow] tiles [in this city]"],
+        "uniques": ["[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Desert] tiles [in this city]","[+1 Food] from [Tundra] tiles [in this city]","[+1 Food] from [Snow] tiles [in this city]"],
         "maintenance": 2,
-	"requiredTech": "Construction"
+        "requiredTech": "Construction"
     },
     {
         "name": "Herbarium",
         "cost": 150,
         "science": 2,
         "maintenance": 2,
-	"uniques": ["[+1 Science] from [Forest] tiles [in this city]","[+1 Science] from [Jungle] tiles [in this city]"],
-	"specialistSlots": {"Scientist": 1},
-	"requiredTech": "Printing Press"
+        "uniques": ["[+1 Science] from [Forest] tiles [in this city]","[+1 Science] from [Jungle] tiles [in this city]"],
+        "specialistSlots": {"Scientist": 1},
+        "requiredTech": "Printing Press"
     },
     {
         "name": "Incinerator",
@@ -102,161 +102,161 @@
         "maintenance": 2,
         "percentStatBonus": {"production": 10},
         "requiredBuilding": "Workshop",
-	    "requiredTech": "Combustion"
+        "requiredTech": "Combustion"
     },
     {
         "name": "Manufacturing Plant",
         "cost": 400,
         "production": 4,
-	"gold": 4,
-	"maintenance": 1,
+        "gold": 4,
+        "maintenance": 1,
         "percentStatBonus": {"production": 20},
-	"specialistSlots": {"Engineer": 2},
-	"requiredTech": "Robotics"
+        "specialistSlots": {"Engineer": 2},
+        "requiredTech": "Robotics"
     },
     {
         "name": "Park",
         "cost": 50,
         "happiness": 2,
-	"maintenance": 1,
-	"requiredTech": "Horseback Riding",
+        "maintenance": 1,
+        "requiredTech": "Horseback Riding"
     },
     {
         "name": "Planetarium",
         "cost": 300,
         "science": 2,
-	"happiness": 2,
-	"maintenance": 1,
-	"requiredTech": "Astronomy"
+        "happiness": 2,
+        "maintenance": 1,
+        "requiredTech": "Astronomy"
     },
     {
         "name": "Powder Mill",
         "cost": 150,
         "production": 3,
-	"gold": 2,
-	"maintenance": 2,
+        "gold": 2,
+        "maintenance": 2,
         "percentStatBonus": {"production": 5},
-	"uniques": ["[+15]% Production when constructing [Land] units [in this city]"],
-	"requiredTech": "Gunpowder"
+        "uniques": ["[+15]% Production when constructing [Land] units [in this city]"],
+        "requiredTech": "Gunpowder"
     },
     {
         "name": "Sugar Refinery",
         "cost": 250,
         "production": 2,
-	"happiness": 4,
-	"gold": 4,
-	"maintenance": 2,
+        "happiness": 4,
+        "gold": 4,
+        "maintenance": 2,
         "requiredNearbyImprovedResources": ["Sugar"],
         "percentStatBonus": {"food": 5},
-	"requiredBuilding": "Workshop",
-	"requiredTech": "Industrialization"
+        "requiredBuilding": "Workshop",
+        "requiredTech": "Industrialization"
     },
     {
         "name": "Cinema",
         "cost": 300,
-	"happiness": 2,
+        "happiness": 2,
         "culture": 3,
-	"gold": 1,
-	"maintenance": 3,
-	"requiredTech": "Electricity"
+        "gold": 1,
+        "maintenance": 3,
+        "requiredTech": "Electricity"
     },
     {
         "name": "Seaside Resort",
         "cost": 100,
-	"happiness": 2,
-	"maintenance": 1,
-	"uniques": ["Must be next to [Coast]"],
-	"requiredTech": "Sailing"
+        "happiness": 2,
+        "maintenance": 1,
+        "uniques": ["Must be next to [Coast]"],
+        "requiredTech": "Sailing"
     },
     {
         "name": "Spa Resort",
         "cost": 200,
-	"happiness": 2,
-	"maintenance": 1,
-	"uniques": ["Must be next to [Coast]","Must be next to [Mountain]"],
-	"requiredTech": "Engineering"
+        "happiness": 2,
+        "maintenance": 1,
+        "uniques": ["Must be next to [Coast]","Must be next to [Mountain]"],
+        "requiredTech": "Engineering"
     },
     {
         "name": "Golf Resort",
         "cost": 300,
-	"happiness": 2,
-	"maintenance": 2,
-	"uniques": ["Must be next to [Plains]","Must be next to [Grassland]"],
-	"requiredTech": "Architecture"
+        "happiness": 2,
+        "maintenance": 2,
+        "uniques": ["Must be next to [Plains]","Must be next to [Grassland]"],
+        "requiredTech": "Architecture"
     },
     {
         "name": "Mountain Resort",
         "cost": 400,
-	"happiness": 4,
-	"maintenance": 2,
-	"uniques": ["Must be next to [Mountain]"],
-	"requiredTech": "Railroads"
+        "happiness": 4,
+        "maintenance": 2,
+        "uniques": ["Must be next to [Mountain]"],
+        "requiredTech": "Railroads"
     },
     {
         "name": "Slaughterhouse",
         "cost": 100,
-	"food": 2,
-	"maintenance": 1,
-	"requiredNearbyImprovedResources": ["Sheep","Deer","Cattle","Horses"],
-	"requiredTech": "Animal Husbandry"
-    }, 
+        "food": 2,
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Sheep","Deer","Cattle","Horses"],
+        "requiredTech": "Animal Husbandry"
+    },
     {
         "name": "Smokery",
         "cost": 100,
-	"maintenance": 2,
-	"uniques": ["[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
-	"requiredBuilding": "Slaughterhouse",
-	"requiredTech": "Animal Husbandry"
+        "maintenance": 2,
+        "uniques": ["[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
+        "requiredBuilding": "Slaughterhouse",
+        "requiredTech": "Animal Husbandry"
     },
     {
         "name": "Icehouse",
         "cost": 200,
-	"maintenance": 1,
-	"percentStatBonus": {"food": 5},
-	"requiredTech": "Iron Working"
+        "maintenance": 1,
+        "percentStatBonus": {"food": 5},
+        "requiredTech": "Iron Working"
     },
     {
         "name": "Cannery",
         "cost": 300,
-	"production": 2,
-	"maintenance": 3,
-	"percentStatBonus": {"food": 10},
-	"specialistSlots": {"Engineer": 1},
-	"requiredTech": "Metallurgy"
+        "production": 2,
+        "maintenance": 3,
+        "percentStatBonus": {"food": 10},
+        "specialistSlots": {"Engineer": 1},
+        "requiredTech": "Metallurgy"
     },
     {
         "name": "Supermarket",
         "cost": 400,
-	"food": 2,
-	"production": 2,
-	"maintenance": 4,
-	"percentStatBonus": {"gold": 10},
-	"requiredTech": "Replaceable Parts"
+        "food": 2,
+        "production": 2,
+        "maintenance": 4,
+        "percentStatBonus": {"gold": 10},
+        "requiredTech": "Replaceable Parts"
     },
     {
         "name": "Warehouses",
         "cost": 200,
-	"food": 2,
-	"production": 2,
-	"maintenance": 2,
-	"requiredBuilding": "Granary",
-	"requiredTech": "Sailing"
+        "food": 2,
+        "production": 2,
+        "maintenance": 2,
+        "requiredBuilding": "Granary",
+        "requiredTech": "Sailing"
     },
     {
         "name": "Shipyard",
         "cost": 200,
-	"production": 2,
-	"maintenance": 4,
-	"requiredTech": "Sailing",
-	"requiredBuilding": "Warehouses",
-	"uniques": ["[+10]% Production when constructing [Water] units [in this city]","Must be on [River]","Must be next to [Coast]"]
-    }
+        "production": 2,
+        "maintenance": 4,
+        "requiredTech": "Sailing",
+        "requiredBuilding": "Warehouses",
+        "uniques": ["[+10]% Production when constructing [Water] units [in this city]","Must be on [River]","Must be next to [Coast]"]
+    },
     {
-	"name": "Apothecary",
-	"cost": 300,
-	"food": 4,
-	"maintenance": 2,
-	"requiredTech": "Education",
-	"uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]","Must be next to [Jungle]","All newly-trained [Melee] units [in this city] receive the [Organic Remedies] promotion"]
+        "name": "Apothecary",
+        "cost": 300,
+        "food": 4,
+        "maintenance": 2,
+        "requiredTech": "Education",
+        "uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]","Must be next to [Forest]","Must be next to [Jungle]","All newly-trained [Melee] units [in this city] receive the [Organic Remedies] promotion"]
     }
 ]
