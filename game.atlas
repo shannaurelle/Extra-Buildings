@@ -200,7 +200,7 @@ BuildingIcons/Supermarket
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Warehouse
+BuildingIcons/Warehouses
   rotate: false
   xy: 1668, 270
   size: 200, 200
