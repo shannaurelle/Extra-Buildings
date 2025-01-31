@@ -30,6 +30,22 @@
         "requiredTech": "Masonry"
     },
     {
+        "name": "Brine Processing Plant",
+        "cost": 150,
+        "happiness": 2,
+        "uniques": ["[+1 Production] from [Coast] tiles [in this city]", "[+1 Production] from [Ocean] tiles [in this city] <after discovering [Chemistry]>"],
+        "maintenance": 1,
+        "requiredBuilding": "Desalination Plant",
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Desalination Plant",
+        "cost": 150,
+        "uniques": ["[+1 Food] from [Coast] tiles [in this city]"],
+        "maintenance": 1,
+        "requiredTech": "Bronze Working"
+    },
+    {
         "name": "Foundry",
         "cost": 200,
         "production": 2,
@@ -193,6 +209,13 @@
         "requiredTech": "Railroads"
     },
     {
+        "name": "Mushroom Farm",
+        "cost": 150,
+        "uniques": ["[+1 Food] from [Forest] tiles [in this city]","[+1 Food] from [Jungle] tiles [in this city]","[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Hill] tiles [in this city]"],
+        "maintenance": 1,
+        "requiredTech": "Mining"
+    },
+    {
         "name": "Slaughterhouse",
         "cost": 100,
         "food": 2,
@@ -236,20 +259,18 @@
     },
     {
         "name": "Warehouses",
-        "cost": 200,
+        "cost": 100,
         "food": 2,
         "production": 2,
         "maintenance": 2,
-        "requiredBuilding": "Granary",
         "requiredTech": "Sailing"
     },
     {
         "name": "Shipyard",
         "cost": 200,
         "production": 2,
-        "maintenance": 4,
+        "maintenance": 1,
         "requiredTech": "Sailing",
-        "requiredBuilding": "Warehouses",
         "uniques": ["[+10]% Production when constructing [Water] units [in this city]","Must be on [River]","Must be next to [Coast]"]
     },
     {
