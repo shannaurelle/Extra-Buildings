@@ -32,6 +32,13 @@ BuildingIcons/Brick Works
   orig: 118, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Brine Processing Plant
+  rotate: false
+  xy: 1044, 53
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Cannery
   rotate: false
   xy: 4, 62
@@ -46,37 +53,44 @@ BuildingIcons/Cinema
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Foundry
-  rotate: false
-  xy: 1044, 53
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Fruiticetium
+BuildingIcons/Desalination Plant
   rotate: false
   xy: 1170, 161
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Fungarium
+BuildingIcons/Foundry
   rotate: false
   xy: 1152, 53
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Gas Storage
+BuildingIcons/Fruiticetium
   rotate: false
   xy: 1278, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Gas Works
+BuildingIcons/Fungarium
   rotate: false
   xy: 1386, 162
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gas Storage
+  rotate: false
+  xy: 1494, 162
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gas Works
+  rotate: false
+  xy: 1602, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -90,14 +104,14 @@ BuildingIcons/Golf Resort
   index: -1
 BuildingIcons/Greenhouse
   rotate: false
-  xy: 1494, 162
+  xy: 1710, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Herbarium
   rotate: false
-  xy: 1602, 162
+  xy: 1818, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -111,14 +125,14 @@ BuildingIcons/Icehouse
   index: -1
 BuildingIcons/Incinerator
   rotate: false
-  xy: 1710, 162
+  xy: 1926, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manufacturing Plant
   rotate: false
-  xy: 1818, 154
+  xy: 1260, 53
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -130,6 +144,13 @@ BuildingIcons/Mountain Resort
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Mushroom Farm
+  rotate: false
+  xy: 1368, 54
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Park
   rotate: false
   xy: 628, 270
@@ -139,14 +160,14 @@ BuildingIcons/Park
   index: -1
 BuildingIcons/Planetarium
   rotate: false
-  xy: 1926, 154
+  xy: 1476, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Powder Mill
   rotate: false
-  xy: 1260, 53
+  xy: 1584, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -188,7 +209,7 @@ BuildingIcons/Spa Resort
   index: -1
 BuildingIcons/Sugar Refinery
   rotate: false
-  xy: 1368, 54
+  xy: 1692, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
