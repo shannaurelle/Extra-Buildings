@@ -211,7 +211,7 @@
     {
         "name": "Mushroom Farm",
         "cost": 150,
-        "uniques": ["[+1 Food, -2 Gold] from [Forest] tiles [in this city] <after discovering [Civil Service]>","[+1 Food, -2 Gold] from [Jungle] tiles [in this city] <after discovering [Education]>","[+1 Food] from [Mountain] tiles [in this city]","[+1 Food, -2 Gold] from [Hill] tiles [in this city] <after discovering [Engineering]>"],
+        "uniques": ["[+1 Food] from [Forest] tiles [in this city] <after discovering [Civil Service]>","[+200]% maintenance costs <after discovering [Engineering]>","[+1 Food] from [Jungle] tiles [in this city] <after discovering [Education]>","[+200]% maintenance costs <after discovering [Education]>","[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Hill] tiles [in this city] <after discovering [Engineering]>","[+100]% maintenance costs <after discovering [Engineering]>"],
         "maintenance": 1,
         "requiredTech": "Mining"
     },
